@@ -64,16 +64,19 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [April 1, 2026, 3:00 PM]
+**What I did**: Implementing Feature 2 (Context Switches) and testing.
 
-**Details**:  
+**Details**:
+• Added a static counter variable to track context switches in SchedulerSimulation.  
+• Incremented the counter every time a new process thread starts running.  
+• Added a final print statement to show the total count at the end of the simulation. 
 
-**Challenges**:
+**Challenges**: Deciding exactly where to increment the counter to ensure it only counts actual switches.
 
-**Solution**:
+**Solution**: Placed the increment logic inside the scheduler loop where a process is retrieved from the queue.
 
-**Time spent**:
+**Time spent**: 1 hour.
 
 ---
 
