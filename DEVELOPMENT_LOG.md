@@ -80,16 +80,19 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [April 2, 2026, 1:00 PM]
+**What I did**: Implementing Feature 3 (Waiting Time Tracking).
 
 **Details**: 
+• Added fields for creationTime and totalWaitTime in the Process class.  
+• Used System.currentTimeMillis() to calculate the time spent in the queue.  
+• Created a summary table to display Name, Burst Time, and Waiting Time.
 
-**Challenges**: 
+**Challenges**: Calculating wait time correctly when a process is re-enqueued multiple times. 
 
-**Solution**: 
+**Solution**: Tracked the time a process finishes its quantum and subtracted it from the next start time.
 
-**Time spent**: 
+**Time spent**: 3 hours.
 
 ---
 
