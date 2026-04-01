@@ -92,20 +92,23 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Solution**: Tracked the time a process finishes its quantum and subtracted it from the next start time.
 
-**Time spent**: 3 hours.
+**Time spent**: 3.5 hours.
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [April 2, 2026, 6:00 PM]
+**What I did**: Final testing, documentation, and completion.
 
 **Details**: 
+• Verified that all three features work together without errors.  
+• Completed ANSWERS.md and REFLECTION.md with detailed technical explanations.  
+• Finalized the README with the video demonstration link.
 
-**Challenges**: 
+**Challenges**: Writing clear reflections on multithreading concepts like thread lifecycle.
 
-**Solution**: 
+**Solution**: Referenced the Thread.start() and Thread.join() calls used in my own code for clarity. 
 
-**Time spent**: 
+**Time spent**: 3 hours.
 
 ---
 
@@ -124,7 +127,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [11 hours]
 
 **Most challenging part**: 
 
