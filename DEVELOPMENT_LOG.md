@@ -32,42 +32,45 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 28, 2026, 8:00 PM]
+**What I did**: Initial review of the assignment requirements and setting up the environment.
 
 **Details**: 
+• Read the full assignment PDF to understand MultiThreading and Round-Robin simulation.
+• Created a GitHub account using the university email.
+• Forked the starter repository and renamed it to OS-Assignment1-Nada-Rashed-445
 
-**Challenges**: 
+**Challenges**: Understanding the existing Process class and how the SchedulerSimulation handles the queue.
 
-**Solution**: 
+**Solution**: Carefully reviewed the code comments and the logic of run() and runToCompletion() methods. 
 
-**Time spent**: 
+**Time spent**: 2 hours.
 
 ---
 
 ### Entry 2 - [Date and Time]
-**What I did**: 
+**What I did**:
 
 **Details**: 
 
-**Challenges**: 
+**Challenges**:
 
-**Solution**: 
+**Solution**:
 
-**Time spent**: 
+**Time spent**:
 
 ---
 
 ### Entry 3 - [Date and Time]
 **What I did**: 
 
-**Details**: 
+**Details**:  
 
-**Challenges**: 
+**Challenges**:
 
-**Solution**: 
+**Solution**:
 
-**Time spent**: 
+**Time spent**:
 
 ---
 
