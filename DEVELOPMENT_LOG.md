@@ -129,8 +129,8 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Total time spent on assignment**: [11 hours]
 
-**Most challenging part**: 
+**Most challenging part**: Implementing Feature 3, which involved tracking and calculating the total waiting time for each process. It was difficult to manage the time logic correctly, especially since processes are re-enqueued multiple times in the Round-Robin cycle.
 
-**Most interesting learning**: 
+**Most interesting learning**: Gaining a hands-on understanding of the thread lifecycle and how the operating system manages CPU scheduling using time quanta. Seeing the visual progress bars for each process made the concept of multi-threading much more tangible.
 
-**What I would do differently next time**: 
+**What I would do differently next time**: I would spend more time sketching out the logic for time calculations on paper before jumping into the code. Also, I would try to use more advanced debugging tools to trace thread execution in real-time. 
