@@ -31,6 +31,8 @@ The most challenging part for me was implementing the third feature, which invol
 
 [Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
 
+I took a systematic approach to problem-solving by breaking down large tasks into smaller, manageable parts. I started by consulting the README and technical documentation to understand how the Round-Robin algorithm worked correctly. I also used debugging to track variable values ​​in each iteration, which helped me identify logical errors in the wait time calculations. Additionally, I researched online tutorials on integrating Java into VS Code to ensure the environment was properly set up. Writing annotations within the code also helped me organize my thoughts and understand the execution sequence of threads. A successful strategy I implemented was to test each feature individually before moving on to the next to ensure program stability.
+
 ---
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
