@@ -48,16 +48,19 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**:
+### Entry 2 - [April 1, 2026, 1:00 PM]
+**What I did**: Personalizing the code and implementing Feature 1 (Priority).
 
-**Details**: 
+**Details**:
+• Updated studentID on line 210 of SchedulerSimulation.java to my actual ID.  
+• Added a priority field (integer 1-5) to the Process class.  
+• Modified the process creation logic to generate random priorities. 
 
-**Challenges**:
+**Challenges**: Ensuring the priority is displayed correctly when the process enters the ready queue. 
 
-**Solution**:
+**Solution**: Updated the addProcessToQueue method to include the priority in the print statement. 
 
-**Time spent**:
+**Time spent**: 1.5 hours.
 
 ---
 
