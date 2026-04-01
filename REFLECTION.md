@@ -21,6 +21,8 @@ Through this assignment, I gained a deep understanding of how to create and mana
 
 [Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
 
+The most challenging part for me was implementing the third feature, which involved tracking and calculating the waiting time for each process. The difficulty lay in the need to accurately monitor the time each time a process entered and exited the Ready Queue. I had to use the System.currentTimeMillis() function to calculate the time differences precisely, which required complex programming logic to sum the total time. This challenge is directly related to the course concepts, as it illustrates the complexity of managing context switching in real-world systems. Initially, I encountered calculation errors when re-queuing processes multiple times within the Round-Robin algorithm. However, this challenge helped me understand how to measure scheduler performance and how to handle variables whose values ​​constantly change during route execution.
+
 ---
 
 ## Question 3: How did you overcome the challenges you faced?
