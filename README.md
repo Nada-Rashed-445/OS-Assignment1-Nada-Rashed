@@ -368,6 +368,7 @@ Create a **2-3 minute video** (not shorter, not longer) showing:
 - Show your face OR use clear voice narration
 - Screen recording showing your code and execution
 - Good audio quality (test your microphone first!)
+- https://drive.google.com/file/d/1dfkEid0JMocabNycNhl6KfEYpSyZmYKY/view?usp=sharing
 
 **Recording Tools:**
 - **Mac:** QuickTime Player (File → New Screen Recording)
